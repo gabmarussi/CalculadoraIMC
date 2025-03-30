@@ -33,8 +33,8 @@ O desenvolvimento deste aplicativo envolveu alguns desafios importantes e decis�
 
 Você pode baixar o arquivo APK da aplicação clicando no link abaixo:
 
-- [Arquivo APK](https://github.com/gabmarussi/CalculadoraIMC/blob/main/CalculadoraIMC.apk)
-- [Arquivo ZIP](https://github.com/gabmarussi/CalculadoraIMC/blob/main/CalculadoraIMC.zip)  
+- [Arquivo APK](https://github.com/gabmarussi/CalculadoraIMC/raw/refs/heads/main/CalculadoraIMC.apk)
+- [Arquivo ZIP](https://github.com/gabmarussi/CalculadoraIMC/raw/refs/heads/main/CalculadoraIMC.zip)  
 
 ## 💡 Melhorias Futuras
 
