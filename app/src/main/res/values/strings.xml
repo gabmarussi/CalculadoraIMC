@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">calculadoraIMC</string>
+    <string name="btnInicio">Iniciar</string>
+    <string name="calculadoraImc">Calculadora IMC</string>
+    <string name="inserirPeso">Seu Peso (Kg)</string>
+    <string name="inserirAltura">Sua Altura (Metro)</string>
+    <string name="btnFechar">Fechar</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnCalcular">Calcular IMC</string>
+
+    <!-- Mensagem de Cada Faixa de Peso -->
+    <string name="mensagem_abaixodopeso">Você está fazendo um ótimo trabalho ao cuidar da sua saúde! Encontrar o equilíbrio certo é um processo, e cada passo que você dá é importante. Procure um especialista para te orientar na jornada. Lembre-se: a saúde é a prioridade e você está indo na direção certa para alcançar o seu bem-estar!</string>
+    <string name="mensagem_sobrepeso">Você está dando passos importantes para transformar sua saúde e alcançar seus objetivos! O sobrepeso não define você, e o mais importante agora é o desejo de fazer mudanças. Cada esforço conta e, com determinação e apoio, você pode alcançar a saúde que deseja. Acredite em si mesmo e continue focado na sua jornada!</string>
+    <string name="mensagem_pesonormal">Parabéns! Você está cuidando da sua saúde de maneira exemplar. Manter o peso ideal é uma grande conquista, mas o mais importante é continuar com escolhas saudáveis. Cada passo que você dá em direção ao autocuidado reflete no seu bem-estar. A sua saúde é um dos maiores presentes que você pode dar a si mesmo!</string>
+    <string name="mensagem_obesidade1">Cada dia é uma nova chance para recomeçar! A jornada para uma vida mais saudável começa com o primeiro passo, e você já deu esse passo. Não subestime seu esforço – cada vitória, por menor que pareça, é uma grande conquista. Com apoio e paciência, você pode conquistar a saúde que deseja. Você é mais forte do que imagina!</string>
+    <string name="mensagem_obesidade2">A transformação começa agora, e você já está no caminho certo! O primeiro passo é o mais importante e você já o deu. Lembre-se: o progresso é o que importa, não a perfeição. Com foco e paciência, você pode alcançar seus objetivos. Não tenha pressa, você tem a força necessária para fazer mudanças incríveis!</string>
+    <string name="mensagem_obesidade3">Você tem um poder incrível dentro de você! O caminho para a saúde pode ser desafiador, mas cada pequeno passo que você dá é uma grande vitória. Não se preocupe em ser perfeito – se preocupe em progredir. Busque apoio, cuide de si mesmo e lembre-se de que você está no controle da sua jornada. A mudança é possível, e você pode alcançar tudo o que deseja!</string>
+</resources>
