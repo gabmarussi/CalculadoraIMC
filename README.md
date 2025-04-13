@@ -9,8 +9,8 @@ Além de calcular o IMC, o app fornece feedback personalizado para incentivar h�
 ## 👨‍🎓 Informações do Aluno
 
 - **Nome:** Gabriel Henrique Coelho Marussi
-- **Curso:** Ciência da Computação - NACCOMP3
-- **RA:** 24025961
+- **Curso:** Ciência da Computação - FECAP NACCOMP3
+- **RA:** 24026609
 
 ## 🚀 Processo de Desenvolvimento
 
